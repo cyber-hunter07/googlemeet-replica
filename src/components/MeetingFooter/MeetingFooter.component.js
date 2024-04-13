@@ -80,7 +80,6 @@ const MeetingFooter = (props) => {
       >
         <FontAwesomeIcon icon={faDesktop} />
       </div>
-      <div className="meeting-icons" data-tip="call end"><FontAwesomeIcon icon={faAmbulance} style={{color:"#f00511"}} /></div>
       <ReactTooltip />
     </div>
   );

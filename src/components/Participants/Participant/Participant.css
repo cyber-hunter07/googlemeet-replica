@@ -38,10 +38,6 @@
     height: 200px;
     border-radius: 50%;
     font-size: 150px;
-    font-family: roboto, arial;
-    color: white;
-    text-align: center;
-    background: orange;
     position: absolute;
     display: flex;
     justify-content: center;
